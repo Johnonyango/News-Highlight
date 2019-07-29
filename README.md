@@ -13,14 +13,34 @@ With the application, a user will be able to:
 * See Image description and time the news article was created.
 * Click on an article and read it fully from the news source
 
-## Specifications
-| Behaviour | Input | Output |
-| :---------------- | :---------------: | ------------------: |
-| Display news sources | **On page load** | List of various news sources is displayed per category |
-| Display articles from a news source | **Click a news source** | Redirected to a page with a list of articles from the source |
-| Display the preview of an article | **On page load** | Each article displays an image, title, description and publication date |
-| Read an entire article | **Click on the article** | Redirected to the news source's site to read the entire article |
-
+## # Behavior Driven Development
+<table>
+    <tr>
+      <th>Behavior</th> 
+      <th>Input</th> 
+      <th>Output</th>   
+    </tr>
+    <tr>
+        <td>Enter Author's name</td>
+        <td>[Author's name]</td>
+        <td>name = 'John'</td>
+    </tr>
+    <tr>
+        <td>Write Quote</td>
+        <td>[Display New Quote]</td>
+        <td>'Love is not blind'</td>
+    </tr>
+    <tr>
+        <td>Input Date</td>
+        <td>Display the time since the quote was submitted</td>
+        <td>''</td>
+    </tr>
+    <tr>
+        <td>Input the name of the submitter</td>
+        <td>Display quoe submitter's name</td>
+        <td>name ='Tina'</td>
+    </tr>    
+</table>
 ### Prerequisites
 
 This web application requires the following software tools to operate
