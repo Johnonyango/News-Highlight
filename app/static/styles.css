@@ -1,10 +1,4 @@
-  /* body{
-    background-image: url("https://digitalsynopsis.com/wp-content/uploads/2017/07/beautiful-color-ui-gradients-backgrounds-can-you-feel-the-love-tonight.png")
- }   */
 
-/* .panel-body{
-    background-color: olive;
-}  */
 h1 {
     font-family: 'Monoton', cursive;
 }
@@ -15,10 +9,4 @@ h2{
 h3{
     font-family: 'Luckiest Guy', cursive;
     background-color:blue;
-    /* width: 50%;
-    text-align: center;
-    background-size: 25px;
-    font-size: 25px;
-    color:white;
-    margin-left: 25%; */
 }
