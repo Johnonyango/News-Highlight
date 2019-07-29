@@ -5,8 +5,11 @@ h1 {
 h2{
     font-family: 'Handlee', cursive;
     color: blue;
+    font-style: bold;
 }
 h3{
     font-family: 'Luckiest Guy', cursive;
     background-color:blue;
+    text-align: center;
+    color: white;
 }
