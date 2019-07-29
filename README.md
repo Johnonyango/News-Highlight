@@ -66,8 +66,10 @@ This web application requires the following software tools to operate
 ## Technologies Used
 
 * Python v3.6
-* Boostrap
+* CSS(Boostrap)
 * Flask
+* Html
+
 
 
 ## MIT License
