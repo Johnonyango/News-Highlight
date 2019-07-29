@@ -32,15 +32,11 @@ With the application, a user will be able to:
     </tr>
     <tr>
         <td>Displaying the whole article</td>
-        <td></td>
-        <td></td>
+        <td>Click on the article</td>
+        <td>The user is redirected to the source to read the whole article</td>
     </tr>
-    <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>    
 </table>
+
 ### Prerequisites
 
 This web application requires the following software tools to operate
@@ -49,7 +45,7 @@ This web application requires the following software tools to operate
 -Pip
 -virtualenv
 -A text  Editor
-```
+
 
 ## Getting Started
 
@@ -59,10 +55,10 @@ This web application requires the following software tools to operate
 * Create a virtual environment and access the folder via your virtual amchine.
 * Visit https://newsapi.org/ and register for an API key.
 * Create start.sh file and in it write the following lines:
-```
- export NEWS_API_KEY='<Your-Api-Key>'
- python3.6 manage.py server
-```
+ 
+ * run export <NEWS_API_KEY='<Your-Api-Key> on the project directory
+ * run python3.6 manage.py server on the project directory
+
 * Run ```chmod +x start.sh``` followed by ``` ./start.sh ``` while in the project folder to start the project.
 * Once started, the project can be accessed on your localhost using the address: ``` localhost:5000 ```.
 * This application can also be accessed by clicking the following link: 
