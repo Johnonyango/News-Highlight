@@ -21,17 +21,17 @@ With the application, a user will be able to:
       <th>Output</th>   
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Displaying various news sources</td>
+        <td>Click on a news source</td>
+        <td>The user lands to a page with a list of articles from the source</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Displaying the preview of an article</td>
+        <td>Loading page</td>
+        <td>Displays image, title, description and publication date</td>
     </tr>
     <tr>
-        <td></td>
+        <td>Displaying the whole article</td>
         <td></td>
         <td></td>
     </tr>
