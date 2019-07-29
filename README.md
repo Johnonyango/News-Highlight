@@ -21,24 +21,24 @@ With the application, a user will be able to:
       <th>Output</th>   
     </tr>
     <tr>
-        <td>Enter Author's name</td>
-        <td>[Author's name]</td>
-        <td>name = 'John'</td>
+        <td></td>
+        <td></td>
+        <td></td>
     </tr>
     <tr>
-        <td>Write Quote</td>
-        <td>[Display New Quote]</td>
-        <td>'Love is not blind'</td>
+        <td></td>
+        <td></td>
+        <td></td>
     </tr>
     <tr>
-        <td>Input Date</td>
-        <td>Display the time since the quote was submitted</td>
-        <td>''</td>
+        <td></td>
+        <td></td>
+        <td></td>
     </tr>
     <tr>
-        <td>Input the name of the submitter</td>
-        <td>Display quoe submitter's name</td>
-        <td>name ='Tina'</td>
+        <td></td>
+        <td></td>
+        <td></td>
     </tr>    
 </table>
 ### Prerequisites
